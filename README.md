@@ -1,1 +1,1 @@
-# Forecasting-financial-quotes
+# Forecasting financial quotes
